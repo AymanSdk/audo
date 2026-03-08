@@ -17,7 +17,7 @@ Audio generation platform foundation built with modern TypeScript tooling, organ
 
 ---
 
-## Table of contents
+## Table of content
 
 - [Overview](#overview)
 - [Current features](#current-features)
